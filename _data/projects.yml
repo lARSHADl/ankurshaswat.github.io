@@ -1,0 +1,145 @@
+# - layout: top-middle
+#   name: Super awesome project
+#   link: github.com/sproogen
+#   github: sproogen/resume-theme
+#   quote: >
+#     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+#   description: | # this will include new lines to allow paragraphs
+#     I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+- layout: top-middle
+  name: One Shot Relational Learning for Knowledge Graphs
+  dates: March 2019 - May 2019
+  # quote: >
+  #   Prof. Mausam
+  description: |
+    - Improved performance of existing one-shot learning model to predict relations.
+    - Analysed data to gain insight into model performance.
+    - Added similarity and attention layer to existing model to increase accuracy.
+
+- layout: top-middle
+  name: PCA using CUDA
+  dates: April 2019
+  # quote: >
+  #   Prof. Subodh V. Sharma
+  description: |
+    - Implemented Principal Component Analysis from scratch on CUDA for high performance. Done as a part of Introduction to Parallel and Distributed Programming (COL380) course.
+
+- layout: top-middle
+  name: Virtualization and IPC on xv6
+  dates: January 2019 – April 2019
+  # quote: >
+  #   Prof. S. R. Sarangi
+  description: |
+    - Extended the toy operating system xv6 to support virtualization with multiple containers. Implemented custom unicast and multicast calls using interrupt routines. Done as a part of Operating Systems (COL331) course under the guidance of Prof. S. R. Sarangi
+- layout: top-middle
+  name: Abstract Machines
+  dates: April 2018 – May 2018
+  # quote: >
+  #   Prof. Sanjiva Prasad
+  description: |
+    - Implemented Krivine and SECD abstract machines in OCaml based on big step semantics. Done as a part of Programming Languages (COL226) course.
+
+- layout: top-middle
+  name: Prolog Interpreter
+  dates: April 2018 – May 2018
+  # quote: >
+  #   Prof. Sanjiva Prasad
+  description: |
+    - Implemented a simple prolog interpreter in Ocaml using ocamllex for lexing and ocamlyacc for parsing.
+    - Built a sigma algebra engine in Ocaml supporting unification and substitution of terms.
+
+- layout: top-middle
+  name: ARM CPU based Processor
+  dates: February 2018 – April 2018
+  # quote: >
+  #   Prof. Anshul Kumar
+  description: |
+    - Implemented and integrated datapath blocks - ALU, Shifter, Register file, Processor-Memory path.
+    - Incorporated controller blocks and AHB-lite bus, which connected processor (master) to memory (slave).
+    - Tested a program in which binary input (from switches) was converted to BCD format using the processor and displayed on Seven Segment Display.
+
+- layout: top-middle
+  name: Starling flock simulation
+  dates: April 2018
+  # quote: >
+  #   Prof. Subhashis Banerjee
+  description: |
+    - Developed program in C++ using OpenGL to simulate flocking of starling bird flight using relevant mathematical properties.
+
+- layout: top-middle
+  name: CAD Software
+  dates: January 2018 – March 2018
+  # quote: >
+  #   Prof. Subhashis Banerjee
+  description: |
+    - In C++\|Qt for finding projections of 3D objects (including hidden lines); constructing 3D objects from 2D projections. This engineering drawing tool can be used to build and visualise wireframe models, rotating them using sliders and obtaining orthographic projections. Done as a part of Design Practices for Computer Science (COP290) course.
+
+# - layout: top-middle
+#   name: Infrared Image Skin Detection
+#   dates: December 2017
+#   # quote: >
+#   #   Prof. Prathosh A.P.
+#   description: |
+#     - Collected and annotated dataset using Infrared Camera containing classes as skin / non-skin images.
+#     - Predicted presence of skin in images using modified pre-trained VGG net further trained on new collected dataset.
+
+- layout: top-middle
+  name: Universal Asynchronous Receiver Transmitter (UART)
+  dates: October 2017 – November 2017
+  # quote: >
+  #   Prof. Anshul Kumar
+  description: |
+    - Built a UART with the help of FPGA board and VHDL language capable of transmitting data to the computer.
+    - Implemented the design to transmit ASCII characters and pre-saved messages at 9600 baud rate via USB cable.
+
+- layout: top-middle
+  name: Elevator Control System
+  dates: September 2017 – October 2017
+  # quote: >
+  #   Prof. Anshul Kumar
+  description: |
+    - Created a lift control system using VHDL with the ability to receive requests from inside or outside the lift.
+    - Added functionality to resolve requests to provide the fastest possible lift routes to requested floors.
+    - Achieved the proper working of the system by creating a FSM chart describing various states of lift.
+
+- layout: top-middle
+  name: Hindi Named Entity Recognition
+  dates: July 2017 – August 2017
+  # quote: >
+  #   OpenEd AI Hackathon
+  description: |
+    - Implemented named entity recognition system to detect the various entities in a sentence in the Hindi language.
+    - Used vocabulary library to train a model using the pre-built python CRF suite library.
+    - Built as part of openEd AI hackathon 2017 and received honourable mention. [(Result Link)](https://medium.com/opened-ai/global-hackweek-winners-2017-a9e5da513270).
+
+- layout: top-middle
+  name: Digital Canteen Application
+  dates: May 2017 – July 2017
+  # quote: >
+  #   Prof. M.Balakrishnan
+  description: |
+    - Created an android application to note the transactions happening within the lunch club and to display all user details.
+    - Setup MySQL database on a VM to store data of menu, users and balance from android application.
+    - Setup API endpoints using PHP on a VM to upload data and keep the app in sync with the on-line database.
+    - Created a website to visualise data of transactions and show instant accounting of specified time.
+
+- layout: top-middle
+  name: Peer to Peer File Send Application
+  dates: May 2017 – July 2017
+  # quote: >
+  #   Dev Club IIT Delhi
+  description: |
+    - Worked with a team to develop a web application capable of sending files from browser to browser.
+    - Used Socket.Io as a signaling server to exchange meta-data between users and to select partner to exchange data.
+    - Used WebRTC technology to initiate peer to peer connection between browsers.
+
+# - layout: top-middle
+#   name: Maze Solving Bot
+#   dates: December 2016 - January 2017
+#   # quote: >
+#   #   Robotics Club IIT Delhi
+#   description: |
+#     - Made a fully autonomous maze solving robot using the Tremaux algorithm to find exit in a looped maze as part of competition in TechFest , IIT Bombay.
+#     - Implemented code to turn at 90,135 and 180 degrees using 7 I.R. Sensors to detect path on the ground.
+#     - Implemented the hardware and software design using an Arduino board.
