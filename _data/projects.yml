@@ -31,8 +31,8 @@
   #   Prof. Chetan Arora
   description: |
     - Aruco marker detection implemented using computer vision techniques.
-    - Rendered 3D models onto Aruco markers in realtime.
-    - Developed various animations and ping pong game using markers and video from webcam. 
+    - Rendered 3D models onto Aruco markers in realtime feed from webcam.
+    - Developed various animations and an AR ping pong game using markers and video from webcam. 
 
 - layout: top-middle
   name: Standard RL Tabular Methods

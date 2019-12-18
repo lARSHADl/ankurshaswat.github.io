@@ -49,6 +49,13 @@ more_content: | # this will include new lines to allow paragraphs
     - Ranked in Top 1% in India in <mark>NSEP</mark>,<mark>NSEC</mark> and <mark>NSEA</mark> (National Standard Examinations).
     - Awarded <mark>Student of The Year</mark> on graduating Higher Secondary for excellent academic performance.
 
+  Courses Done: Computer Vision, Reinforcement Learning, Natural Language Processing, Artificial Intelligence, Analysis & Design of Algorithms, Computer Networks, Data Structures & Algorithms, Discrete Mathematical Structures, Probability & Stochastic Pro., Computer Architecture, Programming Languages, Design Practices.
+  
+  Technical Skills:
+    - Languages: C, C++, Python, Java, JavaScript, NodeJS, VHDL, PHP, OCaml, Prolog.
+    - Environments: Git, Android Studio, LaTeX, Xilinx ISE Design Suite, Vivado.
+    - Frameworks: PyTorch, TensorFlow, Django, Bootstrap, JQuery, MongoDB, MySQL.
+
   Extra Curricular Activites:
     - Received Honorable Mention at <mark>OpenEd AI Hackathon</mark> 2017 for creating NER using CRF for Hindi language.
     - Ranked in <mark>Top 3</mark> in <mark>Microsoft Code.fun.do online hackathon 2018</mark> for building an <mark>attention tracking application</mark>.
