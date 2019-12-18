@@ -41,13 +41,13 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Scholastic Achievements:
-    - Secured <mark>All India Rank 82</mark> in Joint Entrance Exam Advanced - 2016 among 200 Thousand candidates.
-    - Won <mark>IITD Semester Merit Award</mark> in first 2 semesters (given to top 7% of all the students).
-    - Ranked in <mark>Top 0.01%</mark> among 2 million candidates appearing in Joint Entrance Examination(JEE Mains-2016).
-    - Qualified <mark>KVPY</mark> Exam in ‘Kishore Vaigyanik Protsahan Yojana’ by Indian Institute of Science given to top 1%.
-    - Became a National Talent Search Examination (<mark>NTSE</mark>) scholar for being in top 1000 at National level in 2014.
-    - Ranked in Top 1% in India in <mark>NSEP</mark>,<mark>NSEC</mark> and <mark>NSEA</mark> (National Standard Examinations).
-    - Awarded <mark>Student of The Year</mark> on graduating Higher Secondary for excellent academic performance.
+    - Secured All India Rank 82 in Joint Entrance Exam Advanced - 2016 among 200 Thousand candidates.
+    - Won IITD Semester Merit Award in first 2 semesters (given to top 7% of all the students).
+    - Ranked in Top 0.01% among 2 million candidates appearing in Joint Entrance Examination(JEE Mains-2016).
+    - Qualified KVPY Exam in ‘Kishore Vaigyanik Protsahan Yojana’ by Indian Institute of Science given to top 1%.
+    - Became a National Talent Search Examination (NTSE) scholar for being in top 1000 at National level in 2014.
+    - Ranked in Top 1% in India in NSEP,NSEC and NSEA (National Standard Examinations).
+    - Awarded Student of The Year on graduating Higher Secondary for excellent academic performance.
 
   Courses Done: Computer Vision, Reinforcement Learning, Natural Language Processing, Artificial Intelligence, Analysis & Design of Algorithms, Computer Networks, Data Structures & Algorithms, Discrete Mathematical Structures, Probability & Stochastic Pro., Computer Architecture, Programming Languages, Design Practices.
   
@@ -57,14 +57,14 @@ more_content: | # this will include new lines to allow paragraphs
     - Frameworks: PyTorch, TensorFlow, Django, Bootstrap, JQuery, MongoDB, MySQL.
 
   Extra Curricular Activites:
-    - Received Honorable Mention at <mark>OpenEd AI Hackathon</mark> 2017 for creating NER using CRF for Hindi language.
-    - Ranked in <mark>Top 3</mark> in <mark>Microsoft Code.fun.do online hackathon 2018</mark> for building an <mark>attention tracking application</mark>.
-    - <mark>Microsoft Student Partner</mark> (August 2017 - October 2019)
+    - Received Honorable Mention at OpenEd AI Hackathon 2017 for creating NER using CRF for Hindi language.
+    - Ranked in Top 3 in Microsoft Code.fun.do online hackathon 2018 for building an attention tracking application.
+    - Microsoft Student Partner (August 2017 - October 2019)
     - Member of Robotics Club IIT Delhi (October 2016 - March 2017)
   
   Positions of Responsibilities:
-    - Elected <mark>Manager</mark> at <mark>DevClub IIT Delhi</mark> (April 2019 - Present)
-    - Executive <mark>Member</mark> & <mark>Developer</mark> at <mark>DevClub IIT Delhi</mark> (April 2018 - Present)
+    - Elected Manager at DevClub IIT Delhi (April 2019 - Present)
+    - Executive Member & Developer at DevClub IIT Delhi (April 2018 - Present)
 
   Alongside my interests mentioned above some of my other interests and hobbies are:
    - Travelling
