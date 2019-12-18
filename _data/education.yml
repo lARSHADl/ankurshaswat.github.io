@@ -22,11 +22,22 @@
 
 - layout: left
   name: High School
-  dates: Graduated May 2016
+  dates: May 2014 - May 2016
   qualification: 
   description: |
-    PCM with CS
+    PCM with CS, CBSE
 
-    St. Joseph's Co-ed School, Bhopal (CBSE)
+    St. Joseph's Co-ed School, Bhopal
     
     Percentage = 96.2%
+
+- layout: left
+  name: School
+  dates: Graduated May 2014
+  qualification: 
+  description: |
+    CBSE
+
+    St. Joseph's Co-ed School, Bhopal
+    
+    GPA = 10/10

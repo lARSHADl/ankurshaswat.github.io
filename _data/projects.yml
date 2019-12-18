@@ -8,6 +8,42 @@
 #     I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
 - layout: top-middle
+  name: Flowchart Grounded Dialog Dataset Collection
+  dates: September 2019 - December 2019
+  # quote: >
+  #   Prof. Mausam
+  description: |
+    - Created framework to collect dataset based on flowcharts of tech support executives to enable research on novel NLP task.
+    - Observed real dialogs and added nuances in framework to create more natural looking conversations. 
+
+- layout: top-middle
+  name: AlphaGoZero
+  dates: October 2019 - November 2019
+  # quote: >
+  #   Prof. Parag Singla
+  description: |
+    - Implemented and trained AlphaGoZero RL based player using the architecture description from the nature paper for a game on a smaller Go board. 
+
+- layout: top-middle
+  name: Augmented Reality Application
+  dates: October 2019
+  # quote: >
+  #   Prof. Chetan Arora
+  description: |
+    - Aruco marker detection implemented using computer vision techniques.
+    - Rendered 3D models onto Aruco markers in realtime.
+    - Developed various animations and ping pong game using markers and video from webcam. 
+
+- layout: top-middle
+  name: Standard RL Tabular Methods
+  dates: September 2019 - October 2019
+  # quote: >
+  #   Prof. Parag Singla
+  description: |
+    - Implemented various RL tabular learning methods including MC methods , TD methods & Q-learning methods.
+    - Compared performance of various methods in an environment playing the game Achieve-31 (rules similar to blackjack).
+
+- layout: top-middle
   name: One Shot Relational Learning for Knowledge Graphs
   dates: March 2019 - May 2019
   # quote: >
@@ -32,6 +68,16 @@
   #   Prof. S. R. Sarangi
   description: |
     - Extended the toy operating system xv6 to support virtualization with multiple containers. Implemented custom unicast and multicast calls using interrupt routines. Done as a part of Operating Systems (COL331) course under the guidance of Prof. S. R. Sarangi
+
+- layout: top-middle
+  name: Yinsh AI player
+  dates: September 2018 - November 2018
+  # quote: >
+  #   Prof. Mausam
+  description: |
+    - Created an AI player in C++ in a team of 2 using the minimax search algorithm to compete at a Yinsh tournament.
+    - Used alpha beta pruning and search heuristics to increase the search space depth of AI player.
+
 - layout: top-middle
   name: Abstract Machines
   dates: April 2018 – May 2018
@@ -143,3 +189,5 @@
 #     - Made a fully autonomous maze solving robot using the Tremaux algorithm to find exit in a looped maze as part of competition in TechFest , IIT Bombay.
 #     - Implemented code to turn at 90,135 and 180 degrees using 7 I.R. Sensors to detect path on the ground.
 #     - Implemented the hardware and software design using an Arduino board.
+
+# Attention app ?
