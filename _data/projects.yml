@@ -40,7 +40,7 @@
   # quote: >
   #   Prof. Parag Singla
   description: |
-    - Implemented various RL tabular learning methods including MC methods , TD methods & Q-learning methods.
+    - Implemented various RL tabular learning methods including MC methods, TD methods & Q-learning methods.
     - Compared performance of various methods in an environment playing the game Achieve-31 (rules similar to blackjack).
 
 - layout: top-middle
